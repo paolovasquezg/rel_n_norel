@@ -1,0 +1,13 @@
+[
+    {
+        "nombre": "Samsung Galaxy S23 Ultra",
+        "categoria": "Smartphones",
+        "precio": 2144,
+        "stock": 3,
+        "especificaciones": {
+            "pantalla": "6.8 pulgadas AMOLED",
+            "cámara": "200 MP",
+            "almacenamiento": "512GB"
+        }
+    }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "nombre": "Samsung Galaxy S23 Ultra",
+    "categoria": "Smartphones",
+    "precio": 2144,
+    "stock": 23,
+    "especificaciones": {
+      "pantalla": "6.8 pulgadas AMOLED",
+      "cámara": "200 MP",
+      "almacenamiento": "512GB"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 1029,
+    "stock": 35,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2890,
+    "stock": 35,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 2500,
+    "stock": 29,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Google Pixel 7",
+    "categoria": "Smartphones",
+    "precio": 1227,
+    "stock": 33,
+    "especificaciones": {
+      "pantalla": "6.3 pulgadas OLED",
+      "cámara": "50 MP",
+      "almacenamiento": "128GB"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 1281,
+    "stock": 18,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Samsung Galaxy S23 Ultra",
+    "categoria": "Smartphones",
+    "precio": 1576,
+    "stock": 7,
+    "especificaciones": {
+      "pantalla": "6.8 pulgadas AMOLED",
+      "cámara": "200 MP",
+      "almacenamiento": "512GB"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 2666,
+    "stock": 50,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 2414,
+    "stock": 35,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1698,
+    "stock": 5,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 1540,
+    "stock": 19,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 1747,
+    "stock": 41,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 1097,
+    "stock": 34,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 2714,
+    "stock": 15,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 445,
+    "stock": 46,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Google Pixel 7",
+    "categoria": "Smartphones",
+    "precio": 2073,
+    "stock": 13,
+    "especificaciones": {
+      "pantalla": "6.3 pulgadas OLED",
+      "cámara": "50 MP",
+      "almacenamiento": "128GB"
+    }
+  },
+  {
+    "nombre": "Samsung Galaxy S23 Ultra",
+    "categoria": "Smartphones",
+    "precio": 958,
+    "stock": 5,
+    "especificaciones": {
+      "pantalla": "6.8 pulgadas AMOLED",
+      "cámara": "200 MP",
+      "almacenamiento": "512GB"
+    }
+  },
+  {
+    "nombre": "Monitor LG UltraFine 27",
+    "categoria": "Monitores",
+    "precio": 449,
+    "stock": 12,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 2336,
+    "stock": 24,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 1711,
+    "stock": 7,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 1663,
+    "stock": 36,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1787,
+    "stock": 17,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2982,
+    "stock": 41,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 986,
+    "stock": 20,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2619,
+    "stock": 9,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 2871,
+    "stock": 39,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Monitor LG UltraFine 27",
+    "categoria": "Monitores",
+    "precio": 985,
+    "stock": 24,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 822,
+    "stock": 6,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 2967,
+    "stock": 37,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2633,
+    "stock": 16,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 1445,
+    "stock": 24,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "Monitor LG UltraFine 27",
+    "categoria": "Monitores",
+    "precio": 1168,
+    "stock": 27,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 1660,
+    "stock": 43,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 1454,
+    "stock": 36,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 2753,
+    "stock": 15,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 2390,
+    "stock": 19,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1418,
+    "stock": 49,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 945,
+    "stock": 37,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 2553,
+    "stock": 27,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1732,
+    "stock": 8,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 617,
+    "stock": 18,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "Samsung Galaxy S23 Ultra",
+    "categoria": "Smartphones",
+    "precio": 2858,
+    "stock": 31,
+    "especificaciones": {
+      "pantalla": "6.8 pulgadas AMOLED",
+      "cámara": "200 MP",
+      "almacenamiento": "512GB"
+    }
+  },
+  {
+    "nombre": "Monitor LG UltraFine 27",
+    "categoria": "Monitores",
+    "precio": 534,
+    "stock": 39,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1972,
+    "stock": 25,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 1506,
+    "stock": 30,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2257,
+    "stock": 44,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 762,
+    "stock": 38,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 1091,
+    "stock": 20,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 1958,
+    "stock": 32,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 674,
+    "stock": 18,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1667,
+    "stock": 46,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 1049,
+    "stock": 28,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Google Pixel 7",
+    "categoria": "Smartphones",
+    "precio": 2922,
+    "stock": 17,
+    "especificaciones": {
+      "pantalla": "6.3 pulgadas OLED",
+      "cámara": "50 MP",
+      "almacenamiento": "128GB"
+    }
+  },
+  {
+    "nombre": "Samsung Galaxy S23 Ultra",
+    "categoria": "Smartphones",
+    "precio": 857,
+    "stock": 46,
+    "especificaciones": {
+      "pantalla": "6.8 pulgadas AMOLED",
+      "cámara": "200 MP",
+      "almacenamiento": "512GB"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 2700,
+    "stock": 22,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 641,
+    "stock": 38,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2124,
+    "stock": 20,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "Samsung Galaxy S23 Ultra",
+    "categoria": "Smartphones",
+    "precio": 2112,
+    "stock": 42,
+    "especificaciones": {
+      "pantalla": "6.8 pulgadas AMOLED",
+      "cámara": "200 MP",
+      "almacenamiento": "512GB"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 2663,
+    "stock": 23,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Samsung Galaxy S23 Ultra",
+    "categoria": "Smartphones",
+    "precio": 1454,
+    "stock": 12,
+    "especificaciones": {
+      "pantalla": "6.8 pulgadas AMOLED",
+      "cámara": "200 MP",
+      "almacenamiento": "512GB"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1649,
+    "stock": 50,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "Monitor LG UltraFine 27",
+    "categoria": "Monitores",
+    "precio": 1814,
+    "stock": 23,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Google Pixel 7",
+    "categoria": "Smartphones",
+    "precio": 739,
+    "stock": 44,
+    "especificaciones": {
+      "pantalla": "6.3 pulgadas OLED",
+      "cámara": "50 MP",
+      "almacenamiento": "128GB"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 1938,
+    "stock": 9,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 1183,
+    "stock": 14,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Monitor LG UltraFine 27",
+    "categoria": "Monitores",
+    "precio": 2691,
+    "stock": 11,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 617,
+    "stock": 10,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 2577,
+    "stock": 41,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 2904,
+    "stock": 14,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 2196,
+    "stock": 23,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 1865,
+    "stock": 17,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1895,
+    "stock": 17,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1152,
+    "stock": 31,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2104,
+    "stock": 47,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 1889,
+    "stock": 26,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 2182,
+    "stock": 27,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 767,
+    "stock": 9,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 2175,
+    "stock": 47,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 375,
+    "stock": 42,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Monitor LG UltraFine 27",
+    "categoria": "Monitores",
+    "precio": 1656,
+    "stock": 29,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2057,
+    "stock": 11,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "Monitor LG UltraFine 27",
+    "categoria": "Monitores",
+    "precio": 566,
+    "stock": 31,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 2408,
+    "stock": 30,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 1377,
+    "stock": 49,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Google Pixel 7",
+    "categoria": "Smartphones",
+    "precio": 2472,
+    "stock": 6,
+    "especificaciones": {
+      "pantalla": "6.3 pulgadas OLED",
+      "cámara": "50 MP",
+      "almacenamiento": "128GB"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 756,
+    "stock": 18,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2888,
+    "stock": 47,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2511,
+    "stock": 5,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2677,
+    "stock": 45,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 875,
+    "stock": 26,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "HP Spectre x360",
+    "categoria": "Laptops",
+    "precio": 2991,
+    "stock": 30,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "Dell UltraSharp U2723QE",
+    "categoria": "Monitores",
+    "precio": 621,
+    "stock": 37,
+    "especificaciones": {
+      "resolucion": "4K UHD",
+      "tamaño": "27 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Google Pixel 7",
+    "categoria": "Smartphones",
+    "precio": 2831,
+    "stock": 10,
+    "especificaciones": {
+      "pantalla": "6.3 pulgadas OLED",
+      "cámara": "50 MP",
+      "almacenamiento": "128GB"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2633,
+    "stock": 45,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 1949,
+    "stock": 27,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 1308,
+    "stock": 11,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "ASUS ProArt PA32UCX",
+    "categoria": "Monitores",
+    "precio": 896,
+    "stock": 31,
+    "especificaciones": {
+      "resolucion": "4K HDR",
+      "tamaño": "32 pulgadas",
+      "tipo": "IPS"
+    }
+  },
+  {
+    "nombre": "Laptop Dell XPS 13",
+    "categoria": "Laptops",
+    "precio": 1318,
+    "stock": 31,
+    "especificaciones": {
+      "procesador": "Intel Core i7",
+      "ram": "16GB",
+      "almacenamiento": "512GB SSD"
+    }
+  },
+  {
+    "nombre": "iPhone 14 Pro",
+    "categoria": "Smartphones",
+    "precio": 2977,
+    "stock": 38,
+    "especificaciones": {
+      "pantalla": "6.1 pulgadas OLED",
+      "cámara": "48 MP",
+      "almacenamiento": "256GB"
+    }
+  },
+  {
+    "nombre": "MacBook Pro 16",
+    "categoria": "Laptops",
+    "precio": 536,
+    "stock": 40,
+    "especificaciones": {
+      "procesador": "Apple M2 Pro",
+      "ram": "32GB",
+      "almacenamiento": "1TB SSD"
+    }
+  }
+]
