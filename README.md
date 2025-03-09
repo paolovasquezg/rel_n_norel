@@ -1,2 +1,6 @@
-# rel_n_norel
-Analisis en bases de datos relacionales y no relacionales
+# Bases de datos
+
+Analisis en bases de datos:
+
+- Relacionales
+- No relacionales
